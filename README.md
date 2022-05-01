@@ -1,4 +1,4 @@
-# Password_Generation_Using_Python
+# Password_Generator_Using_Python
 
 This programs help you generate random strings.
 "password_generator.py" generates random strings (comprising random numbers, letters and special characters) of specified total string length.
